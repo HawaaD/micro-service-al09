@@ -1,0 +1,4 @@
+#8080 par défaut
+#server.port 8080
+#Eureka
+eureka.client.serviceUrl.defaultZone=http://localhost:9001/eureka/
